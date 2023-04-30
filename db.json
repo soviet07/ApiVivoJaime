@@ -1,5 +1,5 @@
 {
-    "restaurantes": [
+    
         {
             "nombre": "Restaurante Es Fum",
             "direccion": "Carretera Palma-Andratx km 3, Costa d'en Blanes, 07181 Calvià",
@@ -35,5 +35,4 @@
             "fecha_apertura": "2019-05-12",
             "valoracion": 8.0
         }
-    ]
 }
