@@ -1,6 +1,7 @@
 {
   "restaurantes": [
     {
+      "id": 1,
       "nombre": "Restaurante Es Fum",
       "direccion": "Carretera Palma-Andratx km 3, Costa d'en Blanes, 07181 Calvià",
       "telefono": "+34 971 629 629",
@@ -8,6 +9,7 @@
       "valoracion": 9.2
     },
     {
+      "id": 2,
       "nombre": "Forn de Sant Joan",
       "direccion": "Carrer de Sant Joan, 4, 07012 Palma, Illes Balears",
       "telefono": "+34 971 720 114",
@@ -15,6 +17,7 @@
       "valoracion": 8.5
     },
     {
+      "id": 3
       "nombre": "Marc Fosh",
       "direccion": "Carrer de la Missió, 7A, 07003 Palma, Illes Balears",
       "telefono": "+34 971 720 114",
@@ -22,6 +25,7 @@
       "valoracion": 9.0
     },
     {
+      "id": 4,
       "nombre": "Adrián Quetglas",
       "direccion": "Carrer de Joan Miro, 238, 07015 Palma, Illes Balears",
       "telefono": "+34 871 576 376",
@@ -29,6 +33,7 @@
       "valoracion": 8.8
     },
     {
+      "id": 5,
       "nombre": "Restaurante La Parada del Mar",
       "direccion": "Carrer de la Victòria, 14, 07001 Palma, Illes Balears",
       "telefono": "+34 871 030 986",
