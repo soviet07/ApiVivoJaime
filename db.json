@@ -1,4 +1,4 @@
-{
+[
     
         {
             "nombre": "Restaurante Es Fum",
@@ -35,4 +35,4 @@
             "fecha_apertura": "2019-05-12",
             "valoracion": 8.0
         }
-}
+]
